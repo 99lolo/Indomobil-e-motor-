@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://99lolo.github.io/Indomobil-e-motor-/sitemap.xml
